@@ -1,0 +1,10 @@
+[master 4d106c0] Starting to code today , so cool cd .. cd .. ls echo -e #!/bin/bash\necho "School"
+ 8 files changed, 2 insertions(+)
+ create mode 100644 0x01-git/.swp
+ create mode 100644 0x01-git/bash,
+ create mode 100644 0x01-git/bash/alx
+ create mode 100644 0x01-git/bash/school
+ create mode 100644 0x01-git/c,
+ create mode 100644 0x01-git/c/c_is_fun.c
+ create mode 100644 0x01-git/c/index.js
+ create mode 100644 0x01-git/c/main.js
